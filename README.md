@@ -29,5 +29,8 @@
 
 
  ### Result/ Findings
+ - The analysis result are  summarize as follow.
+ - The analysis revealed a general upward trend in immigration to Canada over the period from 1980 to 2010. While   there were fluctuations from year to year, overall immigration numbers increased steadily over time.
+ - Top Source Countries of Immigrants: India, China, and the Philippines emerged as the top three source countries of immigrants to Canada. These countries consistently contributed a significant number of immigrants across the years covered by the dataset.
  
   
