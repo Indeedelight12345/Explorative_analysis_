@@ -26,5 +26,8 @@
 - Explorative analysis  it involved exploring the data to gain more insight and answer some key question in the dataset
 -  pandas for manupulation and filling missing data with the median
 -  seaborn for visualization  and drwing of graph
+
+
+ ### Result/ Findings
  
   
