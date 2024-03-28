@@ -13,7 +13,7 @@
 - Seaborn visualization
 - Matplotlib visualization
 - Jovian  saving my notebook 
-- Numpy  statisticall calculation 
+- Numpy  statistical calculation 
 - jupyter notebook writing code
 
 ### Data cleaning 
